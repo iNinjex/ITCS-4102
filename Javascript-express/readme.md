@@ -1,7 +1,19 @@
 # JavaScript Express Version
 
+## Install Dependencies
+
+```bash
 npm install
+```
 
-npm start
+## Run the Server
 
-localhost:3000/languages
+```bash
+node server.js
+```
+
+## Open the API
+
+```
+http://localhost:3000/languages
+```
